@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1421025965 source:c:\users\zengwh\desktop\temp\noise reduction\init.c
+	"type.h"
+	<stdio.h>
+	<math.h>
+
+1421046653 c:\users\zengwh\desktop\temp\noise reduction\type.h
+	"fft.h"
+
+1420894951 source:c:\users\zengwh\desktop\temp\noise reduction\noise_reduction.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"type.h"
+	"rfft.h"
+
+1270801843 c:\users\zengwh\desktop\temp\noise reduction\rfft.h
+
+1270801816 source:c:\users\zengwh\desktop\temp\noise reduction\rfft.c
+	<math.h>
+	"rfft.h"
+
+1421046706 source:c:\users\zengwh\desktop\temp\noise reduction\main.c
+	<stdio.h>
+	"type.h"
+	"agc.h"
+	"GtAGC32.h"
+
+1419941222 source:c:\users\zengwh\desktop\temp\noise reduction\agc.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"agc.h"
+
+1419768087 c:\users\zengwh\desktop\temp\noise reduction\agc.h
+	"type.h"
+
+1414976333 c:\users\zengwh\desktop\temp\noise reduction\amr_vad\wb_vad.h
+	"typedef.h"
+	"wb_vad_c.h"
+
+1419317447 c:\users\zengwh\desktop\temp\noise reduction\amr_vad\typedef.h
+
+1415066207 c:\users\zengwh\desktop\temp\noise reduction\amr_vad\wb_vad_c.h
+
+1418717611 source:c:\users\zengwh\desktop\temp\noise reduction\amr_vad\wb_vad.c
+	<stdlib.h>
+	"typedef.h"
+	"wb_vad_c.h"
+	"wb_vad.h"
+	"basic_op.h"
+	"basicop2.c"
+
+1377570720 c:\users\zengwh\desktop\temp\noise reduction\amr_vad\basic_op.h
+
+1190369280 c:\users\zengwh\desktop\temp\noise reduction\amr_vad\basicop2.c
+
+1419937764 source:c:\users\zengwh\desktop\temp\noise reduction\gtagc32.c
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<malloc.h>
+	"GtAGC32.h"
+
+1419934823 c:\users\zengwh\desktop\temp\noise reduction\gtagc32.h
+
+1421046653 source:c:\users\zengwh\desktop\temp\noise reduction\logmmse.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"type.h"
+	"fft.h"
+
+1420982773 c:\users\zengwh\desktop\temp\noise reduction\fft.h
+
+1420982653 source:c:\users\zengwh\desktop\temp\noise reduction\fft.c
+	<math.h>
+	"fft.h"
+
+1420982653 source:e:\代码库\业余爱好版\noise reduction(2015-1-12 添加logmmse去噪函数)\noise reduction\fft.c
+	<math.h>
+	"fft.h"
+
+1420982773 e:\代码库\业余爱好版\noise reduction(2015-1-12 添加logmmse去噪函数)\noise reduction\fft.h
+
+1421025965 source:e:\代码库\业余爱好版\noise reduction(2015-1-12 添加logmmse去噪函数)\noise reduction\init.c
+	"type.h"
+	<stdio.h>
+	<math.h>
+
+1421046653 e:\代码库\业余爱好版\noise reduction(2015-1-12 添加logmmse去噪函数)\noise reduction\type.h
+	"fft.h"
+
+1421046653 source:e:\代码库\业余爱好版\noise reduction(2015-1-12 添加logmmse去噪函数)\noise reduction\logmmse.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"type.h"
+	"fft.h"
+
+1420894951 source:e:\代码库\业余爱好版\noise reduction(2015-1-12 添加logmmse去噪函数)\noise reduction\noise_reduction.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"type.h"
+	"rfft.h"
+
+1270801843 e:\代码库\业余爱好版\noise reduction(2015-1-12 添加logmmse去噪函数)\noise reduction\rfft.h
+
+1270801816 source:e:\代码库\业余爱好版\noise reduction(2015-1-12 添加logmmse去噪函数)\noise reduction\rfft.c
+	<math.h>
+	"rfft.h"
+
+1429085858 source:e:\代码库\业余爱好版\noise reduction(2015-1-12 添加logmmse去噪函数)\noise reduction\main.c
+	<stdio.h>
+	"type.h"
+
